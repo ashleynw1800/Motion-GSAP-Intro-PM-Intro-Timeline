@@ -1,0 +1,27 @@
+/* =============
+    Demo
+============= */
+
+.section-1{
+    display: grid;
+    grid-template-areas: ". hello happy .";
+    grid-template-columns: "auto 2fr 1fr auto";
+    background-color: #E6EBFF;
+}
+
+#hello-container{
+    grid-area: hello;
+    align-self: center;
+}
+.hello{
+    font-size: 150px;
+    font-family: 'Abril Fatface', cursive;
+    color: #FF4F2D;
+}
+
+#happy-container{
+    grid-area: happy;
+    align-self: center;
+    color: #FF89FF;
+    font-size: 150px;
+}
