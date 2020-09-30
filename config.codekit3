@@ -9,6 +9,65 @@
 	],
 "creatorBuild": "32001",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
+	"/deploy/css/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/deploy/css/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/deploy/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/deploy/index.html",
+		"oF": 0
+		},
+	"/deploy/js/demo-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/deploy/js/demo-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/deploy/js/hello-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/deploy/js/hello-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/deploy/js/scripts-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/deploy/js/scripts-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/dev/content/demo.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -52,6 +111,28 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/dev/js/happy.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/deploy/js/happy-min.js",
+		"oF": 2,
+		"sC": 3,
+		"tS": 0
+		},
+	"/dev/js/hello.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/deploy/js/hello-min.js",
+		"oF": 2,
+		"sC": 3,
+		"tS": 0
+		},
 	"/dev/js/scripts.js": {
 		"bF": 4,
 		"ft": 64,
@@ -59,6 +140,17 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/deploy/js/scripts-min.js",
+		"oF": 2,
+		"sC": 3,
+		"tS": 0
+		},
+	"/dev/js/speed.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/deploy/js/speed-min.js",
 		"oF": 2,
 		"sC": 3,
 		"tS": 0
@@ -281,7 +373,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 622762565.488958,
-	"displayValue": "Motion-GSAP-Intro-PM",
+	"displayValue": "Motion-GSAP-Intro-PM-Intro-GSAP",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-koamaru",
 	"iconImageWasSetByUser": 0

@@ -1,3 +1,9 @@
-import * as Demo from './demo.js';
+import {gsap} from "gsap";
+import {helloAnimation} from './hello.js';
+import {happyAnimation} from './happy.js';
 
-console.log(Demo);
+
+var mainTL = gsap.timeline();
+
+mainTL.add (helloAnimation())
+	.add (happyAnimation());
